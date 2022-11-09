@@ -1,2 +1,2 @@
-# Hash-Cracker
+# HashATK
 Fast Multi-Threaded Hash Cracker 
