@@ -118,6 +118,9 @@ optional arguments:
 
 ```
 
+## Note
+
+I, the author, is not responsible with any actions done with this script.
 ## Roadmap
 
 - More supported modes
